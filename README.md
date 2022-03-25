@@ -2,7 +2,10 @@
 
 ### A Fact Tank. Not a Think Tank.
 
-Creating impact from clarity of public information.
+Creating impact from access and clarity of public information.
+
+##### Focus areas
+
 
 An Australian Registered Chartity Not For Profit
 
