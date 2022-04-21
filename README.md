@@ -2,7 +2,7 @@
 
 ## A Fact Tank. Not a Think Tank.
 
-Creating impact from access and clarity of public information.
+Insights from open access to public information.
 
 <!---
 OnlyFactsAU/OnlyFactsAU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
